@@ -6,6 +6,8 @@ Procédure à suivre pour bosser
 2. Associer CodeIgniter à votre SGBD
 3. Développer :)
 
+Le fichier tuto_git.txt contient l'ensemble des commandes à effectuer pour initialiser git.
+
 ##########################################
 Associer CodeIgniter à votre SGBD en local
 ##########################################
