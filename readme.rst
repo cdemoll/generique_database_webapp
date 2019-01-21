@@ -10,7 +10,7 @@ Procédure à suivre pour bosser
 Associer CodeIgniter à votre SGBD en local
 ##########################################
 
-Pour CodeIgniter puisse pointer vers votre base de données en localhost, il faut
+Pour que CodeIgniter puisse pointer vers votre base de données en localhost, il faut
 modifier le fichier dans
 
 /application/config/database.php
