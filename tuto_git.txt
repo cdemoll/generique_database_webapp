@@ -10,6 +10,6 @@ Le projet est maintenant sur votre machine et sous l'environnement git
 
 Pour que chacun puisse travailler de manière organisée il est nécessaire d'utiliser les branches, pour ce faire:
 > git branch <votre_branche>  // créer une branche
-> git checkout <votre_branche> // permet de changer de branche
+> git checkout <votre_branche> // vous met sur votre branche
 > git status //retourne l'emplacement sur lequel on est
 
